@@ -7,7 +7,12 @@
     <h2>
         About
     </h2>
+    <h1>
+       About Changes
+    </h1>
     <p>
         Put content here.
+
     </p>
+
 </asp:Content>
